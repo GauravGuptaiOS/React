@@ -1,0 +1,36 @@
+{
+  "name": "react-gaurav",
+  "version": "1.0.0",
+  "description": "React learning by Gaurav",
+  "keywords": [
+    "React",
+    "by",
+    "gaurav",
+    "gaurav",
+    "react"
+  ],
+  "homepage": "https://github.com/GauravGuptaiOS/React#readme",
+  "bugs": {
+    "url": "https://github.com/GauravGuptaiOS/React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GauravGuptaiOS/React.git"
+  },
+  "license": "ISC",
+  "author": "Gaurav Gupta",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel": "^2.16.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "browserslist" : [
+    ">=0.5%",
+     "last 2 versions"
+  ]
+}
