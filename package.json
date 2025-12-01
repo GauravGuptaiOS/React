@@ -2,13 +2,7 @@
   "name": "react-gaurav",
   "version": "1.0.0",
   "description": "React learning by Gaurav",
-  "keywords": [
-    "React",
-    "by",
-    "gaurav",
-    "gaurav",
-    "react"
-  ],
+  "keywords": [ ],
   "homepage": "https://github.com/GauravGuptaiOS/React#readme",
   "bugs": {
     "url": "https://github.com/GauravGuptaiOS/React/issues"
